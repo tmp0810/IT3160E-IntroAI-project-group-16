@@ -37,7 +37,7 @@ This project classifies Vietnamese news articles into one of 12 topics using the
 
 ## Project Structure
 - **ML+RNN+LSTM IntroAI project group 16.ipynb**: Notebook containing implementations of Ml algorithm: Decision Tree, Random Forrest, XGBoost;DL model: RNN, and LSTM models.  
-- **vietnamese_words.txt**: A text file required for PhoBERT preprocessing.  
+- **vietnamese_words.txt**: A vietnamese stopwords file for data preprocessing.
 - **PhoBERT notebook**: Contains the implementation of the PhoBERT-based classifier.  
 
 ---
