@@ -8,6 +8,7 @@ This project classifies Vietnamese news articles into one of 12 topics using the
 4. **PhoBERT** (a powerful pre-trained language model specifically for Vietnamese).  
 ## Dataset: 
 Crawling from https://vnexpress.net/
+
 ---
 
 ## Installation Guide
