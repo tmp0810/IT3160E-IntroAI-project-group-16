@@ -29,7 +29,7 @@ This project classifies Vietnamese news articles into one of 12 topics using the
 ---
 
 ### 3. Running the PhoBERT Model
-1. Upload the file **`vietnamese_words.txt`** to your Colab environment.  
+1. Upload the file **`vietnamese_words.txt`** to your environment.  
 2. Open the **PhoBERT notebook** file in Google Colab.  
 3. Click **Run All** to execute the code.
 
