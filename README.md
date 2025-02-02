@@ -6,7 +6,8 @@ This project classifies Vietnamese news articles into one of 12 topics using the
 2. **RNN (Recurrent Neural Networks)**  
 3. **LSTM (Long Short-Term Memory)**  
 4. **PhoBERT** (a powerful pre-trained language model specifically for Vietnamese).  
-## Dataset: Crawling from Vnexpress.
+## Dataset: 
+Crawling from https://vnexpress.net/
 ---
 
 ## Installation Guide
